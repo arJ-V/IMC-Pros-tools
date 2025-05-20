@@ -15,7 +15,9 @@ IMC Prosperity tools. What I've found to be useful during rounds and in off-seas
 ## More Tools
 
 Optimizer
-ProsGPT
+**ProsperityGPT**
+- GPT trained on high-competitors and quantitative finance literature, learn more about construction in the readme. [Link to GPT](https://chatgpt.com/g/g-682c8d8303c48191bc8889ce6a5b58f2-prosperitygpt)
+
 Manual-Sim
 
 
