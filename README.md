@@ -14,12 +14,16 @@ IMC Prosperity tools. What I've found to be useful during rounds and in off-seas
 
 ## More Tools
 
-Optimizer
 **ProsperityGPT**
-- GPT trained on high-competitors and quantitative finance literature, learn more about construction in the [readme.](https://github.com/arJ-V/IMC-Pros-tools/blob/main/ProsperityGPT/readme.md)
+- GPT trained on high-competitors and quantitative finance literature, learn more about construction in the [readme.](https://github.com/arJ-V/IMC-Pros-tools/blob/main/ProsperityGPT/readme.md). (folder of ProsperityGPT in this repo)
 - [Link to GPT](https://chatgpt.com/g/g-682c8d8303c48191bc8889ce6a5b58f2-prosperitygpt)
 
-Manual-Sim
+**imc-Prospector**
+- yes im giving them all corny names. cl + algo checker. loved using jmerle's cl submitter but wanted functionality to check for any stupid errors before submitting to prosperity and waiting a bunch for a error response. So... thats what this is. check out the repo: [link](https://github.com/arJ-V/imc-prospector), or the pypi package: [link](https://pypi.org/project/imc-prospector/#description)
+
+
+
+Manual-Sim (tbd?)
 
 
 
