@@ -21,6 +21,10 @@ IMC Prosperity tools. What I've found to be useful during rounds and in off-seas
 **imc-Prospector**
 - yes im giving them all corny names. cl + algo checker. loved using jmerle's cl submitter but wanted functionality to check for any stupid errors before submitting to prosperity and waiting a bunch for a error response. So... thats what this is. check out the repo: [link](https://github.com/arJ-V/imc-prospector), or the pypi package: [link](https://pypi.org/project/imc-prospector/#description)
 
+**imc-optimal**
+- optimizer using pareto ranking since multiobjective (pnl, sharpe, drawdown). uses optuna: 
+repo: [link](https://github.com/arJ-V/imc-optimal), pypi package: [link](https://pypi.org/project/prosperity3opt/)
+
 
 
 Manual-Sim (tbd?)
